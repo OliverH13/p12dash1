@@ -29,8 +29,6 @@ int main() {
             }
         }
     }
-
-
     file.close();
 
     cout << "Words:      " << word_count << endl;
